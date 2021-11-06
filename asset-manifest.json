@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ali-akhi/web-design/tree/main/hello-react/static/css/main.0087ce4f.chunk.css",
+    "main.js": "/ali-akhi/web-design/tree/main/hello-react/static/js/main.5e9f77a3.chunk.js",
+    "main.js.map": "/ali-akhi/web-design/tree/main/hello-react/static/js/main.5e9f77a3.chunk.js.map",
+    "runtime-main.js": "/ali-akhi/web-design/tree/main/hello-react/static/js/runtime-main.1ee3c6c2.js",
+    "runtime-main.js.map": "/ali-akhi/web-design/tree/main/hello-react/static/js/runtime-main.1ee3c6c2.js.map",
+    "static/js/2.91d04727.chunk.js": "/ali-akhi/web-design/tree/main/hello-react/static/js/2.91d04727.chunk.js",
+    "static/js/2.91d04727.chunk.js.map": "/ali-akhi/web-design/tree/main/hello-react/static/js/2.91d04727.chunk.js.map",
+    "static/js/3.656e8327.chunk.js": "/ali-akhi/web-design/tree/main/hello-react/static/js/3.656e8327.chunk.js",
+    "static/js/3.656e8327.chunk.js.map": "/ali-akhi/web-design/tree/main/hello-react/static/js/3.656e8327.chunk.js.map",
+    "index.html": "/ali-akhi/web-design/tree/main/hello-react/index.html",
+    "static/css/main.0087ce4f.chunk.css.map": "/ali-akhi/web-design/tree/main/hello-react/static/css/main.0087ce4f.chunk.css.map",
+    "static/js/2.91d04727.chunk.js.LICENSE.txt": "/ali-akhi/web-design/tree/main/hello-react/static/js/2.91d04727.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ee3c6c2.js",
+    "static/js/2.91d04727.chunk.js",
+    "static/css/main.0087ce4f.chunk.css",
+    "static/js/main.5e9f77a3.chunk.js"
+  ]
+}
